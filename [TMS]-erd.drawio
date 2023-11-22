@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T07:38:15.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="K4U86RGN_6uoxOV4eHSs" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T07:45:17.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3r8DlRw3OTJjP4fDoJAE" version="22.1.3" type="github">
   <diagram name="Trang-1" id="X79Ox1DuiPso4oo0BL1V">
-    <mxGraphModel dx="1366" dy="725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1258,7 +1258,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ry9QWF9dIS9Fo0e99qNZ-27" value="&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#ffffff&quot;&gt;教育管理者&lt;/font&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#000000;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="645" y="25" width="180" height="90" as="geometry">
+          <mxGeometry x="652" y="25" width="180" height="90" as="geometry">
             <mxRectangle x="321" y="340" width="65" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1286,29 +1286,6 @@
         <mxCell id="Ry9QWF9dIS9Fo0e99qNZ-33" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="Ry9QWF9dIS9Fo0e99qNZ-31">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ry9QWF9dIS9Fo0e99qNZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NmTJ-leTnUmGJCFdobAK-205">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="679.4761904761904" y="369.04761904761904" as="sourcePoint" />
-            <mxPoint x="953" y="129" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="724" y="369" />
-              <mxPoint x="724" y="164" />
-              <mxPoint x="1088" y="164" />
-              <mxPoint x="1088" y="98" />
-              <mxPoint x="1050" y="98" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ry9QWF9dIS9Fo0e99qNZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NmTJ-leTnUmGJCFdobAK-192" target="NmTJ-leTnUmGJCFdobAK-101">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="116" as="sourcePoint" />
-            <mxPoint x="489.0272857142858" y="366.37000000000006" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="398" y="100" />
-              <mxPoint x="398" y="372" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ry9QWF9dIS9Fo0e99qNZ-52" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;受講者&lt;/span&gt;&lt;/font&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#000000;fillColor=#3399FF;" vertex="1" parent="1">
@@ -1367,6 +1344,15 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ry9QWF9dIS9Fo0e99qNZ-69" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="712" y="-100" width="50" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Ry9QWF9dIS9Fo0e99qNZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NmTJ-leTnUmGJCFdobAK-101" target="Ry9QWF9dIS9Fo0e99qNZ-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ry9QWF9dIS9Fo0e99qNZ-72" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="115" width="10" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
