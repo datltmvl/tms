@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T08:54:29.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jFsnLCSE57SMG67QHknq" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T09:05:39.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rv8-Haqlurob9W5Uu287" version="22.1.4" type="github">
   <diagram name="Trang-1" id="X79Ox1DuiPso4oo0BL1V">
-    <mxGraphModel dx="2565" dy="1625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -643,7 +643,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UkQuIpmFcg4H_jtEZm5_-29" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;チーム 利用者&lt;/font&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;html=1;strokeColor=#000000;fillColor=#EA6B66;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1304" y="239" width="180" height="121" as="geometry">
+          <mxGeometry x="1304" y="239" width="180" height="152" as="geometry">
             <mxRectangle x="321" y="340" width="65" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -682,6 +682,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UkQuIpmFcg4H_jtEZm5_-38" value="リーダーフラグ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=14;" parent="UkQuIpmFcg4H_jtEZm5_-36" vertex="1">
+          <mxGeometry x="30" width="150" height="31" as="geometry">
+            <mxRectangle width="150" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apmlqMC-f6GwQl_1q1T4-9" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="UkQuIpmFcg4H_jtEZm5_-29">
+          <mxGeometry y="121" width="180" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="apmlqMC-f6GwQl_1q1T4-10" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#ffffff;fontStyle=1;fontSize=14;" vertex="1" parent="apmlqMC-f6GwQl_1q1T4-9">
+          <mxGeometry width="30" height="31" as="geometry">
+            <mxRectangle width="30" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apmlqMC-f6GwQl_1q1T4-11" value="教育者フラグ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=14;" vertex="1" parent="apmlqMC-f6GwQl_1q1T4-9">
           <mxGeometry x="30" width="150" height="31" as="geometry">
             <mxRectangle width="150" height="31" as="alternateBounds" />
           </mxGeometry>
